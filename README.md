@@ -50,5 +50,7 @@
      *  계산기 프로그램 이용 중 사용했던 연산식과 결과값을 확인
      *  계산기 프로그램 종료 시 text파일로 저장하여 재실행시 history 버튼을 통해 이전의 계산내역 확인 가능
      *  계산기 프로그램 시작 시 이전의 history 창 자동실행
+     *  <img src= https://github.com/user-attachments/assets/fec251c7-0dbf-45dc-81c2-fd24e54d4f19 width="180" height="250"/>
+
   
 
